@@ -1,0 +1,198 @@
+=====[ Login ]=====
+Username : zidan
+Password : 123
+
+          Login berhasil!
+========[ TB Jawa Jaya ]========
+
+Menu:
+1. Tambah data
+2. Tampilkan data
+3. Ubah data
+4. Hapus data
+5. Keluar
+Pilihan: 1
+
+=====[ Input Barang ]=====
+Masukan nama barang : Kayu Jati
+
+=====[ Jenis Barang ]=====
+1. Material Konstruksi
+2. Kayu dan Produk Kayu
+3. Perlengkapan Plumbing
+4. Perlengkapan Listrik
+5. Perlengkapan Finishing
+6. Alat Kerja
+Masukan pilihan jenis barang (1-6) : 2
+Masukan harga : 46000
+
+Data berhasil ditambahkan!
+========[ TB Jawa Jaya ]========
+
+Menu:
+1. Tambah data
+2. Tampilkan data
+3. Ubah data
+4. Hapus data
+5. Keluar
+Pilihan: 1
+
+=====[ Input Barang ]=====
+Masukan nama barang : Paku Payung
+
+=====[ Jenis Barang ]=====
+1. Material Konstruksi
+2. Kayu dan Produk Kayu
+3. Perlengkapan Plumbing
+4. Perlengkapan Listrik
+5. Perlengkapan Finishing
+6. Alat Kerja
+Masukan pilihan jenis barang (1-6) : 3
+Masukan harga : 7000
+
+Data berhasil ditambahkan!
+========[ TB Jawa Jaya ]========
+
+Menu:
+1. Tambah data
+2. Tampilkan data
+3. Ubah data
+4. Hapus data
+5. Keluar
+Pilihan: 
+2
+
+======[ Data Barang ]======
+Index: 1
+Nama Barang  : Kayu Jati
+Jenis Barang : Kayu dan Produk Kayu
+Harga Barang : Rp.46000
+-----------------------------
+Index: 2
+Nama Barang  : Paku Payung
+Jenis Barang : Perlengkapan Plumbing
+Harga Barang : Rp.7000
+-----------------------------
+========[ TB Jawa Jaya ]========
+
+Menu:
+1. Tambah data
+2. Tampilkan data
+3. Ubah data
+4. Hapus data
+5. Keluar
+Pilihan: 3
+
+======[ Data Barang ]======
+Index: 1
+Nama Barang  : Kayu Jati
+Jenis Barang : Kayu dan Produk Kayu
+Harga Barang : Rp.46000
+-----------------------------
+Index: 2
+Nama Barang  : Paku Payung
+Jenis Barang : Perlengkapan Plumbing
+Harga Barang : Rp.7000
+-----------------------------
+Masukan index data yang ingin diubah: 2
+========[ Data Exchange ]========
+Nama Barang  : Paku Payung
+Jenis Barang : Perlengkapan Plumbing
+Harga Barang : 7000
+
+=====[ Jenis Barang ]=====
+1. Material Konstruksi
+2. Kayu dan Produk Kayu
+3. Perlengkapan Plumbing
+4. Perlengkapan Listrik
+5. Perlengkapan Finishing
+6. Alat Kerja
+Masukan pilihan jenis barang baru : 1
+Masukan harga barang baru : 7000
+
+Data berhasil diubah!
+========[ TB Jawa Jaya ]========
+
+Menu:
+1. Tambah data
+2. Tampilkan data
+3. Ubah data
+4. Hapus data
+5. Keluar
+Pilihan: 2
+
+======[ Data Barang ]======
+Index: 1
+Nama Barang  : Kayu Jati
+Jenis Barang : Kayu dan Produk Kayu
+Harga Barang : Rp.46000
+-----------------------------
+Index: 2
+Nama Barang  : Paku Payung
+Jenis Barang : Material Konstruksi
+Harga Barang : Rp.7000
+-----------------------------
+========[ TB Jawa Jaya ]========
+
+Menu:
+1. Tambah data
+2. Tampilkan data
+3. Ubah data
+4. Hapus data
+5. Keluar
+Pilihan: 4
+
+======[ Data Barang ]======
+Index: 1
+Nama Barang  : Kayu Jati
+Jenis Barang : Kayu dan Produk Kayu
+Harga Barang : Rp.46000
+-----------------------------
+Index: 2
+Nama Barang  : Paku Payung
+Jenis Barang : Material Konstruksi
+Harga Barang : Rp.7000
+-----------------------------
+Masukan index data yang ingin dihapus: 2
+
+Data berhasil dihapus!
+========[ TB Jawa Jaya ]========
+
+Menu:
+1. Tambah data
+2. Tampilkan data
+3. Ubah data
+4. Hapus data
+5. Keluar
+Pilihan: 7
+
+Pilihan tidak valid!
+========[ TB Jawa Jaya ]========
+
+Menu:
+1. Tambah data
+2. Tampilkan data
+3. Ubah data
+4. Hapus data
+5. Keluar
+Pilihan: 4
+
+======[ Data Barang ]======
+Index: 1
+Nama Barang  : Kayu Jati
+Jenis Barang : Kayu dan Produk Kayu
+Harga Barang : Rp.46000
+-----------------------------
+Masukan index data yang ingin dihapus: 9
+
+Indeks tidak valid! Penghapusan data gagal.
+========[ TB Jawa Jaya ]========
+
+Menu:
+1. Tambah data
+2. Tampilkan data
+3. Ubah data
+4. Hapus data
+5. Keluar
+Pilihan: 5
+Terima kasih!
